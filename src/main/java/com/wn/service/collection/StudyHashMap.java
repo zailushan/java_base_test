@@ -2,6 +2,7 @@ package com.wn.service.collection;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Set;
 import java.util.TreeMap;
 
 /**
@@ -64,16 +65,20 @@ public class StudyHashMap {
         //---3.treeMap:
         /**
          * treeMap 问题：
-         * 1.底层结构：
-         * 2.如何存取的？
+         * 1.底层结构： 结构有点像链表
+         * 2.如何存取的？ 遍历时通过元素的left或者right属性 来拿到比它大或者小的元素
+         *
          * 3.在存的时候就按照顺序存的，还是在取出来的时候才按照顺序取的？
+         * 存的时候就按照大小顺序存了，去的时候就像链表一样从前到后按顺序遍历
          */
         Map<String, String> treeMap = new TreeMap<>();
         treeMap.put("1", "1");
         treeMap.put("2", "2");
 
         System.out.println("treeMap...");
-        for (String s : treeMap.keySet()) {
+        Set<String> treeKeySet = treeMap.keySet();
+        treeKeySet.iterator().next();
+        for (String s : treeKeySet) {
             System.out.println(s);
         }
 
