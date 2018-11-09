@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="415fcc3f-472b-4d99-b588-86ed64a3ec4f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wn/service/collection/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashMap.java" afterDir="false" />
     </list>
@@ -26,7 +26,7 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="294">
               <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -35,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StudyHashMap.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudyHashMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="473">
+              <caret line="74" column="38" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,24 +47,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/Student.java">
+      <file leaf-file-name="TreeMap.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/TreeMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="435">
+              <caret line="577" column="20" lean-forward="true" selection-start-line="577" selection-start-column="20" selection-end-line="577" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudyHashSet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
               <folding>
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,8 +71,8 @@
       <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="574" column="73" lean-forward="true" selection-start-line="574" selection-start-column="73" selection-end-line="574" selection-end-column="73" />
+            <state relative-caret-position="225">
+              <caret line="1424" column="32" selection-start-line="1424" selection-start-column="24" selection-end-line="1424" selection-end-column="32" />
               <folding>
                 <element signature="e#19072#19073#0" expanded="true" />
                 <element signature="e#19130#19131#0" expanded="true" />
@@ -82,29 +80,51 @@
                 <element signature="e#19379#19380#0" expanded="true" />
                 <element signature="e#24298#24299#0" expanded="true" />
                 <element signature="e#24363#24364#0" expanded="true" />
+                <element signature="e#71152#71153#0" expanded="true" />
+                <element signature="e#71234#71235#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java">
+      <file leaf-file-name="StudyList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1701">
-              <caret line="106" column="22" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+            <state relative-caret-position="357">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
-                <element signature="e#6252#6253#0" expanded="true" />
-                <element signature="e#6320#6321#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/List.java">
+      <file leaf-file-name="HashSet.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1827">
-              <caret line="110" column="43" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="43" />
+            <state relative-caret-position="360">
+              <caret line="97" column="55" lean-forward="true" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
+              <folding>
+                <element signature="e#3709#3710#0" expanded="true" />
+                <element signature="e#3746#3747#0" expanded="true" />
+                <element signature="e#6453#6454#0" expanded="true" />
+                <element signature="e#6499#6500#0" expanded="true" />
+                <element signature="e#8033#8034#0" expanded="true" />
+                <element signature="e#8081#8082#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,12 +140,16 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>static final int TREEIFY_THRESHOLD = 8;</find>
+      <find />
       <find>table</find>
-      <find>table = new En</find>
-      <find>index = (n - 1) &amp; hash</find>
+      <find />
+      <find />
       <find>Entry</find>
       <find>TreeNode</find>
+      <find>DEFAULT_INITIAL_CAPACITY</find>
+      <find>keySet</find>
+      <find>entrySet</find>
+      <find>root</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -136,6 +160,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/wn/service/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wn/service/collection/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashMap.java" />
       </list>
     </option>
@@ -259,9 +285,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StudyHashMap">
     <configuration name="StudyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wn.service.collection.StudyHashMap" />
+      <module name="java_base_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wn.service.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StudyHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wn.service.collection.StudyHashSet" />
       <module name="java_base_test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -312,9 +349,14 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.StudyHashMap" />
+      <item itemvalue="Application.StudyHashSet" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StudyHashMap" />
+        <item itemvalue="Application.StudyHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -330,12 +372,13 @@
       <updated>1541578961334</updated>
       <workItem from="1541578962962" duration="3601000" />
       <workItem from="1541638613527" duration="2053000" />
-      <workItem from="1541643650871" duration="10920000" />
+      <workItem from="1541643650871" duration="11034000" />
+      <workItem from="1541725296107" duration="21505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16574000" />
+    <option name="totallyTimeSpent" value="38193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -353,7 +396,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.27124184" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.17864923" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3297062" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -363,7 +406,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.119936034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14818764" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info anchor="right" id="BPMNPalette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -383,6 +426,77 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12054">
+          <caret line="574" column="73" lean-forward="true" selection-start-line="574" selection-start-column="73" selection-end-line="574" selection-end-column="73" />
+          <folding>
+            <element signature="e#19072#19073#0" expanded="true" />
+            <element signature="e#19130#19131#0" expanded="true" />
+            <element signature="e#19296#19297#0" expanded="true" />
+            <element signature="e#19379#19380#0" expanded="true" />
+            <element signature="e#24298#24299#0" expanded="true" />
+            <element signature="e#24363#24364#0" expanded="true" />
+            <element signature="e#71152#71153#0" expanded="true" />
+            <element signature="e#71234#71235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="106" column="22" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1827">
+          <caret line="110" column="43" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+          <folding>
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -413,6 +527,8 @@
           <folding>
             <element signature="e#6252#6253#0" expanded="true" />
             <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -435,6 +551,8 @@
             <element signature="e#19379#19380#0" expanded="true" />
             <element signature="e#24298#24299#0" expanded="true" />
             <element signature="e#24363#24364#0" expanded="true" />
+            <element signature="e#71152#71153#0" expanded="true" />
+            <element signature="e#71234#71235#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -469,6 +587,8 @@
           <folding>
             <element signature="e#6252#6253#0" expanded="true" />
             <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -491,23 +611,14 @@
             <element signature="e#19379#19380#0" expanded="true" />
             <element signature="e#24298#24299#0" expanded="true" />
             <element signature="e#24363#24364#0" expanded="true" />
+            <element signature="e#71152#71153#0" expanded="true" />
+            <element signature="e#71234#71235#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="106" column="22" selection-start-line="106" selection-start-column="22" selection-end-line="106" selection-end-column="22" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -518,7 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="294">
           <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -526,20 +637,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashMap.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="221">
+          <caret line="327" column="29" lean-forward="true" selection-start-line="327" selection-start-column="29" selection-end-line="327" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="863" column="50" lean-forward="true" selection-start-line="863" selection-start-column="50" selection-end-line="863" selection-end-column="50" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="97" column="55" lean-forward="true" selection-start-line="97" selection-start-column="55" selection-end-line="97" selection-end-column="55" />
+          <folding>
+            <element signature="e#3709#3710#0" expanded="true" />
+            <element signature="e#3746#3747#0" expanded="true" />
+            <element signature="e#6453#6454#0" expanded="true" />
+            <element signature="e#6499#6500#0" expanded="true" />
+            <element signature="e#8033#8034#0" expanded="true" />
+            <element signature="e#8081#8082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="574" column="73" lean-forward="true" selection-start-line="574" selection-start-column="73" selection-end-line="574" selection-end-column="73" />
+        <state relative-caret-position="225">
+          <caret line="1424" column="32" selection-start-line="1424" selection-start-column="24" selection-end-line="1424" selection-end-column="32" />
           <folding>
             <element signature="e#19072#19073#0" expanded="true" />
             <element signature="e#19130#19131#0" expanded="true" />
@@ -547,27 +704,35 @@
             <element signature="e#19379#19380#0" expanded="true" />
             <element signature="e#24298#24299#0" expanded="true" />
             <element signature="e#24363#24364#0" expanded="true" />
+            <element signature="e#71152#71153#0" expanded="true" />
+            <element signature="e#71234#71235#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="305">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="577" column="20" lean-forward="true" selection-start-line="577" selection-start-column="20" selection-end-line="577" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wn/service/collection/StudyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="74" column="38" selection-start-line="74" selection-start-column="38" selection-end-line="74" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
