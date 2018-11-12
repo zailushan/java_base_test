@@ -22,6 +22,14 @@ public class SetAndMap {
 
         Set<String> treeSet = new TreeSet<>();
 
+        treeSet.add("1");
+        treeSet.add("1");
+        treeSet.add("1");
+
+
+        for (String s : treeSet) {
+            System.out.println(s);
+        }
 
     }
 
