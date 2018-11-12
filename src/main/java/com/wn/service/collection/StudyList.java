@@ -17,6 +17,8 @@ public class StudyList {
 
         Iterator iterator = list.iterator();
 
+        // List
+
 
     }
 }
