@@ -21,6 +21,8 @@ public class Test {
 
         System.out.println(b.getAge() + " " + b.getId() + " " + b.getName());
         System.out.println("test ");
+
+        System.out.println("hello");
     }
 
 }
